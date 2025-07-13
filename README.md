@@ -1,3 +1,9 @@
+# Clinical Data Analyst Portfolio
+
+This portfolio contains my projects related to clinical data analysis using Microsoft Excel, Python, and Power BI.
+
+---
+
 # 📁 Project 1: Clinical Trial Data Analysis using Excel
 
 - Cleaned and analyzed a dataset of 20 patients
@@ -5,6 +11,8 @@
 - Created visual charts for gender, outcome by age, and AE severity
 - Tools: Microsoft Excel (Filters, Pivot Tables, Charts)
 📄 File: `Clinical_Trial_Analysis.xlsx`
+
+---
 
 📁 **Project 2: [Healthcare Data Analysis using Python and Power BI](./Project-2-Healthcare-Data-Analysis-Python-PowerBI)**
 
