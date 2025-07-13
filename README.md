@@ -14,7 +14,7 @@ This portfolio contains my projects related to clinical data analysis using Micr
 
 ---
 
-##📁 **Project 2: [Healthcare Data Analysis using Python and Power BI](./Project-2-Healthcare-Data-Analysis-Python-PowerBI)**
+##📁 Project 2: [Healthcare Data Analysis using Python and Power BI](./Project-2-Healthcare-Data-Analysis-Python-PowerBI)**
 
 - Cleaned hospital discharge data using Python (Colab)
 - Handled missing values, standardized data
