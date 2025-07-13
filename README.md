@@ -1,3 +1,11 @@
+# 📁 Project 1: Clinical Trial Data Analysis using Excel
+
+- Cleaned and analyzed a dataset of 20 patients
+- Used Pivot Tables to summarize treatment outcome, adverse events
+- Created visual charts for gender, outcome by age, and AE severity
+- Tools: Microsoft Excel (Filters, Pivot Tables, Charts)
+📄 File: `Clinical_Trial_Analysis.xlsx`
+
 📁 **Project 2: [Healthcare Data Analysis using Python and Power BI](./Project-2-Healthcare-Data-Analysis-Python-PowerBI)**
 
 - Cleaned hospital discharge data using Python (Colab)
