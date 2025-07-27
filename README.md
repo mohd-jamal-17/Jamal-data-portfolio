@@ -22,4 +22,8 @@ This portfolio contains my projects related to clinical data analysis using Micr
 - Visualized readmission patterns by gender, age, diagnosis
 - Tools: Python (Pandas, NumPy), Power BI  
 📄 Files: `healthcare_cleaning.ipynb`, `Hospital Patient Analysis Dashboard (2025).pdf`
+
+---
+### 🔹 [Project 3: Clinical Hospital Data Analysis (SAS + Tableau)](./Project%203%20-%20Clinical%20Hospital%20Data%20Analysis/README.md)
+
   
