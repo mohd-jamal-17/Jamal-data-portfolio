@@ -30,5 +30,5 @@ This portfolio contains my projects related to clinical data analysis using Micr
 • Imported and processed data in SAS using PROC IMPORT and EXPORT  
 • Created Tableau dashboards to visualize hospital ratings, mortality, and safety indicators  
 • Tools: SQL (Filtering, Joins), Excel (Data Review, Formatting), SAS (PROC IMPORT/EXPORT), Tableau (Bar Charts, Filters, Dashboard)  
-📄 Files: Cleaned_Hospital_Info.csv, SAS_Code.txt, Hospital_Data_Dashboard.twb
+📄 Files: `Cleaned_Hospital_Info.csv`, `SAS_Code.txt`, `Hospital_Data_Dashboard.png`
   
