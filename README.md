@@ -24,7 +24,7 @@ This portfolio contains my projects related to clinical data analysis using Micr
 📄 Files: `healthcare_cleaning.ipynb`, `Hospital Patient Analysis Dashboard (2025).pdf`
 
 ---
-📁 **Project 3: Clinical Hospital Data Analysis using SQL, Excel, SAS, and Tableau.(./Project-3-Clinical-Hospital-Data-Analysis-Using-SQL-Excel-SAS-and-Tableau)**
+📁 **Project 3: Clinical Hospital Data Analysis using SQL, Excel, SAS, and Tableau**
 
 • Cleaned and explored U.S. hospital general information using Excel and SQL  
 • Imported and processed data in SAS using PROC IMPORT and EXPORT  
