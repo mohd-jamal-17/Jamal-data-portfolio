@@ -4,7 +4,7 @@ This portfolio contains my projects related to clinical data analysis using Micr
 
 ---
 
-# 📁 Project 1: #Hospital Claims SAS Project
+# 📁 Project 1: Hospital Claims SAS Project
 
 This project demonstrates data import, cleaning, analysis, and reporting of hospital claims using SAS.
 
